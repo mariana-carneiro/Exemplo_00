@@ -3,6 +3,7 @@
 (2024)
 #objective: Flask example for class Person
 """""
+#comentario para testar
 from flask import Flask, render_template, request
 from classes.Person import Person
 
